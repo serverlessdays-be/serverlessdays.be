@@ -1,5 +1,5 @@
-# serverlessdays-london
-New Site for ServerlessDays London
+# serverlessdays-belgium
+New Site for ServerlessDays Belgium
 
 Static site generated using 11ty and nunjucks templates
 

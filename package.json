@@ -13,10 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.8.3",
-    "clean-css": "^4.2.1",
-    "jsdom": "^14.1.0",
-    "markdown-it": "^8.4.2"
+    "@11ty/eleventy": "^0.10.0",
+    "clean-css": "^4.2.3",
+    "jsdom": "^16.2.0",
+    "markdown-it": "^10.0.0"
   },
   "devDependencies": {
     "node-fetch": "^2.6.0",

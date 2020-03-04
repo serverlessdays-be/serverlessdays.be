@@ -1,7 +1,8 @@
 {
-    "twitter": "https://twitter.com/ServerlessLDN",
-    "email": "london@serverlessdays.io",
+    "twitter": "https://twitter.com/ServerlessBEL",
+    "twitter_handle": "@ServerlessBEL",
+    "email": "belgium@serverlessdays.io",
     "eventDate": "11 July 2019",
-    "location": "Imperial College, South Kensington, London",
+    "location": "TBD",
     "favicon": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_32/v1560342627/London/2019/favicon.ico"
 }

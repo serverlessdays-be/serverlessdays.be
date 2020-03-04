@@ -33,4 +33,4 @@ We expect participants to follow these rules at conference and workshop venues a
 
 Additional options to report Code of Conduct related issues include
 
-- Email report@serverlessdays.io with details. This email address is monitored by a group of individuals independent for the local ServerlessDays organising team.
+- Email hello@serverlessdays.be with details. This email address is monitored by a group of individuals independent for the local ServerlessDays organising team.

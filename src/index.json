@@ -3,20 +3,20 @@
     "page": {
         "title": "ServerlessDays London - Home",
         "description": "One Day. One Track. One Community",
-        "url": "https://london.serverlessdays.io",
+        "url": "https://serverlessdays.be",
         "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
     },
     "eventDetails": {
       "name": "Belgium",
       "description":"Let's get Serverless",
       "startDate": "9 July 2019",
-      "endDate": "Sept / Oct - 2020",
+      "endDate": "Sept - 2020",
       "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
-      "hero": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_640/v1559600209/London/2019/imperial_above.jpg",
+      "hero": "https://www.luchthaven-antwerpen.com/wp-content/uploads/2017/09/shutterstock_557525077-antwerp.jpg",
       "tagline": "One Day. One Track. One Community",
       "cta": {
-        "path": "https://ti.to/serverlessdays-london/serverlessdays-london-2019",
-        "name": "Get Tickets"
+        "path": "#subForm",
+        "name": "Sign up"
       },
       "altCTA": {
         "path": "#",

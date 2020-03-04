@@ -1,4 +1,9 @@
 {
     "navBarItems": [
+        {
+            "key": "coc",
+            "path": "/coc",
+            "name": "Code of Conduct"
+        }
     ]
 }

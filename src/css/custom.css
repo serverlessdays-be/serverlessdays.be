@@ -14,6 +14,7 @@
 .tertiaryBkg { background: #1e656d}
 .tertiaryContrastColor { color: #1e656d}
 .tertiaryContrastBkg { background: #ffffff}
+.hidden { display: none;}
 
 .w-05 { width: 5% }
 .w-12 { width: 12.5% }

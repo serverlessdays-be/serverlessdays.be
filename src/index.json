@@ -1,7 +1,7 @@
 {
     "layout": "home.njk",
     "page": {
-        "title": "ServerlessDays Belgiun - Home",
+        "title": "ServerlessDays Belgium - Home",
         "description": "One Day. One Track. One Community",
         "url": "https://serverlessdays.be",
         "image": "https://serverlessdays.be/img/social.png"

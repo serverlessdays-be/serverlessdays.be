@@ -9,8 +9,8 @@
     "eventDetails": {
       "name": "Belgium",
       "description":"Let's get Serverless",
-      "startDate": "2021",
-      "endDate": "2021",
+      "startDate": "",
+      "endDate": "",
       "logo": "/img/logo.svg",
       "hero": "/img/hero.jpg",
       "tagline": "One Day. One Track. One Community",

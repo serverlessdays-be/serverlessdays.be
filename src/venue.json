@@ -1,0 +1,9 @@
+{
+    "layout": "venue.njk",
+    "page": {
+        "title": "ServerlessDays London - Venue",
+        "description": "One Day. One Track. One Community",
+        "url": "https://london.serverlessdays.io/venue",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+    }
+}

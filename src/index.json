@@ -1,0 +1,56 @@
+{
+    "layout": "home.njk",
+    "page": {
+        "title": "ServerlessDays Belgium - Home",
+        "description": "One Day. One Track. One Community",
+        "url": "https://serverlessdays.be",
+        "image": "https://serverlessdays.be/img/social.jpg"
+    },
+    "eventDetails": {
+      "name": "Belgium",
+      "description":"Let's get Serverless",
+      "startDate": "",
+      "endDate": "",
+      "logo": "/img/logo.svg",
+      "hero": "/img/hero.jpg",
+      "tagline": "One Day. One Track. One Community",
+      "cta": {
+        "path": "#subForm",
+        "name": "Sign up"
+      },
+      "altCTA": {
+        "path": "#",
+        "name": "TBD"
+      }
+    },
+    "sponsors": {
+      "platinum": [
+      ],
+      "gold": [
+
+      ],
+      "silver": [
+
+      ],
+      "community": [
+
+      ]
+    },
+    "speakers": {
+        "text": "TBD...",
+        "lineup": [
+
+        ]
+    },
+    "agenda": [
+
+    ],
+    "venue": {
+        "text": "TBD",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_480/v1559600209/London/2019/imperial_med.jpg",
+        "cta": {
+            "path": "https://www.google.com/maps/dir/South+Kensington+Station,+London/51.4985229,-0.1779713/@51.4961326,-0.1808188,16z/data=!3m1!4b1!4m9!4m8!1m5!1m1!1s0x48760542a2c42db5:0xf56b36019c8646fc!2m2!1d-0.1747855!2d51.4944371!1m0!3e2",
+            "name": "Directions"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "layout": "coc.njk",
+    "page": {
+        "title": "ServerlessDays London - Privacy Policy",
+        "description": "One Day. One Track. One Community",
+        "url": "https://london.serverlessdays.io/privacy",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+    }
+}

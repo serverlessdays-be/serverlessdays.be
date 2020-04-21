@@ -4,13 +4,13 @@
         "title": "ServerlessDays Belgium - Home",
         "description": "One Day. One Track. One Community",
         "url": "https://serverlessdays.be",
-        "image": "https://serverlessdays.be/img/social.png"
+        "image": "https://serverlessdays.be/img/social.jpg"
     },
     "eventDetails": {
       "name": "Belgium",
       "description":"Let's get Serverless",
-      "startDate": "Sept - 2020",
-      "endDate": "Sept - 2020",
+      "startDate": "2021",
+      "endDate": "2021",
       "logo": "/img/logo.svg",
       "hero": "/img/hero.jpg",
       "tagline": "One Day. One Track. One Community",
